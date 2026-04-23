@@ -1,0 +1,21 @@
+dni,nombre,edad,municipio,tipoAbono,saldoPuntos
+12345678A,María López,34,Sevilla,MENSUAL,320
+87654321B,Carlos Ruiz,22,Dos Hermanas,OCASIONAL,45
+11223344C,Ana García,41,Alcalá de Guadaíra,ANUAL,780
+44332211D,Pedro Martínez,29,Mairena del Aljarafe,TRIMESTRAL,210
+55667788E,Laura Sánchez,19,Camas,OCASIONAL,12
+88776655F,Javier Romero,55,Bormujos,ANUAL,999
+99001122G,Isabel Fernández,38,Sevilla,MENSUAL,467
+22110099H,Miguel Torres,47,Dos Hermanas,TRIMESTRAL,153
+33445566I,Carmen Delgado,26,Sevilla,MENSUAL,88
+66554433J,Antonio Navarro,60,Alcalá de Guadaíra,ANUAL,612
+77889900K,Lucía Moreno,33,Mairena del Aljarafe,TRIMESTRAL,305
+00998877L,Francisco Jiménez,44,Camas,OCASIONAL,0
+10203040M,Elena Vargas,21,Bormujos,MENSUAL,74
+40302010N,Sergio Molina,37,Sevilla,ANUAL,841
+50607080O,Rocío Castillo,28,Dos Hermanas,TRIMESTRAL,196
+80706050P,David Herrera,52,Alcalá de Guadaíra,OCASIONAL,33
+91827364Q,Marta Reyes,31,Mairena del Aljarafe,MENSUAL,559
+46372819R,Tomás Vega,45,Camas,ANUAL,720
+28374655S,Cristina Lara,23,Bormujos,TRIMESTRAL,411
+73829104T,Rubén Iglesias,39,Sevilla,OCASIONAL,267

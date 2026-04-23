@@ -1,0 +1,221 @@
+id,dni,lineaTransporte,origen,destino,fechaViaje,horaViaje,duracionMinutos,precio,incidencia
+1,12345678A,L1,Triana,Centro,2025-01-08,08:30,12,1.50,false
+2,87654321B,L5,Aeropuerto,Santa Justa,2025-01-10,17:15,28,2.00,true
+3,11223344C,Metro-A,San Bernardo,Nervión,2025-01-14,07:45,18,1.75,false
+4,44332211D,L3,Pino Montano,Plaza de Armas,2025-01-19,09:00,25,1.80,false
+5,55667788E,L7,Camas,Sevilla Centro,2025-01-22,16:30,35,2.50,true
+6,88776655F,Metro-B,Olivar de Quinto,Santa Justa,2025-01-27,08:15,40,2.75,false
+7,99001122G,L1,Centro,Triana,2025-02-03,10:00,12,1.50,false
+8,22110099H,Metro-C,Bormujos,Plaza Nueva,2025-02-07,07:30,45,3.00,true
+9,33445566I,L5,Santa Justa,Aeropuerto,2025-02-11,13:45,28,2.00,false
+10,66554433J,L3,Nervión,Pino Montano,2025-02-14,18:00,25,1.80,false
+11,77889900K,Metro-A,Nervión,San Bernardo,2025-02-18,08:50,18,1.75,true
+12,00998877L,L7,Sevilla Centro,Camas,2025-02-21,15:00,35,2.50,false
+13,10203040M,L1,Triana,Nervión,2025-02-25,09:15,20,1.60,false
+14,40302010N,Metro-B,Santa Justa,Olivar de Quinto,2025-03-03,07:00,40,2.75,false
+15,50607080O,L3,Plaza de Armas,Macarena,2025-03-06,11:30,22,1.80,true
+16,80706050P,L5,Bellavista,Santa Justa,2025-03-10,16:00,30,2.00,false
+17,91827364Q,Metro-C,Plaza Nueva,Bormujos,2025-03-13,08:30,45,3.00,false
+18,46372819R,L7,Camas,Bellavista,2025-03-17,17:45,38,2.50,true
+19,28374655S,L1,Centro,Macarena,2025-03-20,12:00,15,1.50,false
+20,73829104T,Metro-A,San Bernardo,Nervión,2025-03-25,09:30,18,1.75,false
+21,12345678A,L3,Macarena,Centro,2025-04-01,08:00,22,1.80,true
+22,87654321B,Metro-B,Olivar de Quinto,Nervión,2025-04-04,18:30,42,2.75,false
+23,11223344C,L5,Aeropuerto,Bellavista,2025-04-08,07:15,32,2.00,false
+24,44332211D,L7,Sevilla Centro,Camas,2025-04-11,14:00,35,2.50,true
+25,55667788E,Metro-C,Bormujos,San Bernardo,2025-04-15,09:45,50,3.00,false
+26,88776655F,L1,Triana,Centro,2025-04-18,08:30,12,1.50,false
+27,99001122G,L3,Pino Montano,Nervión,2025-04-22,10:15,26,1.80,true
+28,22110099H,Metro-A,Nervión,San Bernardo,2025-04-25,07:45,18,1.75,false
+29,33445566I,L5,Santa Justa,Aeropuerto,2025-04-29,16:45,28,2.00,false
+30,66554433J,L7,Camas,Bellavista,2025-05-02,08:00,38,2.50,true
+31,77889900K,Metro-B,Santa Justa,Olivar de Quinto,2025-05-06,17:00,40,2.75,false
+32,00998877L,L1,Centro,Triana,2025-05-09,13:30,12,1.50,false
+33,10203040M,Metro-C,Plaza Nueva,Bormujos,2025-05-13,08:15,45,3.00,true
+34,40302010N,L3,Macarena,Pino Montano,2025-05-16,11:00,25,1.80,false
+35,50607080O,L5,Bellavista,Santa Justa,2025-05-20,09:30,30,2.00,false
+36,80706050P,Metro-A,San Bernardo,Nervión,2025-05-23,18:15,18,1.75,true
+37,91827364Q,L7,Sevilla Centro,Camas,2025-05-27,07:30,35,2.50,false
+38,46372819R,L1,Triana,Macarena,2025-05-30,10:45,17,1.50,false
+39,28374655S,Metro-B,Olivar de Quinto,Santa Justa,2025-06-03,16:00,40,2.75,true
+40,73829104T,L3,Nervión,Plaza de Armas,2025-06-06,08:30,24,1.80,false
+41,12345678A,Metro-C,Bormujos,Plaza Nueva,2025-06-10,07:00,48,3.00,false
+42,87654321B,L5,Aeropuerto,Nervión,2025-06-13,14:30,33,2.00,true
+43,11223344C,L7,Bellavista,Camas,2025-06-17,09:15,37,2.50,false
+44,44332211D,Metro-A,Nervión,San Bernardo,2025-06-20,18:45,18,1.75,false
+45,55667788E,L1,Centro,Triana,2025-06-24,12:30,12,1.50,true
+46,88776655F,L3,Pino Montano,Macarena,2025-06-27,08:00,26,1.80,false
+47,99001122G,Metro-B,Santa Justa,Olivar de Quinto,2025-07-01,17:30,42,2.75,false
+48,22110099H,L5,Santa Justa,Aeropuerto,2025-07-04,10:00,28,2.00,true
+49,33445566I,L7,Camas,Sevilla Centro,2025-07-08,07:45,35,2.50,false
+50,66554433J,Metro-C,Plaza Nueva,Bormujos,2025-07-11,16:15,50,3.00,false
+51,77889900K,L1,Triana,Nervión,2025-07-15,08:30,20,1.60,true
+52,00998877L,Metro-A,San Bernardo,Nervión,2025-07-18,09:00,18,1.75,false
+53,10203040M,L3,Plaza de Armas,Pino Montano,2025-07-22,13:00,25,1.80,false
+54,40302010N,L5,Bellavista,Santa Justa,2025-07-25,17:45,30,2.00,true
+55,50607080O,Metro-B,Olivar de Quinto,Nervión,2025-07-29,08:15,42,2.75,false
+56,80706050P,L7,Camas,Bellavista,2025-08-01,11:30,38,2.50,false
+57,91827364Q,L1,Centro,Macarena,2025-08-05,07:30,15,1.50,true
+58,46372819R,Metro-C,Bormujos,San Bernardo,2025-08-08,16:45,55,3.00,false
+59,28374655S,L3,Macarena,Centro,2025-08-12,09:15,22,1.80,false
+60,73829104T,L5,Aeropuerto,Bellavista,2025-08-15,14:00,32,2.00,true
+61,12345678A,Metro-A,Nervión,San Bernardo,2025-08-19,08:00,18,1.75,false
+62,87654321B,L7,Sevilla Centro,Camas,2025-08-22,18:00,35,2.50,false
+63,11223344C,Metro-B,Santa Justa,Olivar de Quinto,2025-08-26,10:30,40,2.75,true
+64,44332211D,L1,Triana,Centro,2025-08-29,07:45,12,1.50,false
+65,55667788E,L3,Nervión,Pino Montano,2025-09-02,17:15,26,1.80,false
+66,88776655F,Metro-C,Plaza Nueva,Bormujos,2025-09-05,09:00,48,3.00,true
+67,99001122G,L5,Santa Justa,Aeropuerto,2025-09-09,13:30,28,2.00,false
+68,22110099H,L7,Bellavista,Camas,2025-09-12,08:15,38,2.50,false
+69,33445566I,Metro-A,San Bernardo,Nervión,2025-09-16,16:30,18,1.75,true
+70,66554433J,L1,Centro,Triana,2025-09-19,10:45,12,1.50,false
+71,77889900K,Metro-B,Olivar de Quinto,Santa Justa,2025-09-23,07:30,40,2.75,false
+72,00998877L,L3,Pino Montano,Plaza de Armas,2025-09-26,14:15,24,1.80,true
+73,10203040M,L5,Bellavista,Nervión,2025-09-30,09:45,31,2.00,false
+74,40302010N,Metro-C,Bormujos,Plaza Nueva,2025-10-03,18:30,52,3.00,false
+75,50607080O,L7,Camas,Sevilla Centro,2025-10-07,08:00,35,2.50,true
+76,80706050P,L1,Triana,Macarena,2025-10-10,11:15,17,1.50,false
+77,91827364Q,Metro-A,Nervión,San Bernardo,2025-10-14,07:45,18,1.75,false
+78,46372819R,L3,Macarena,Nervión,2025-10-17,16:00,23,1.80,true
+79,28374655S,L5,Aeropuerto,Santa Justa,2025-10-21,09:30,28,2.00,false
+80,73829104T,Metro-B,Santa Justa,Olivar de Quinto,2025-10-24,13:00,42,2.75,false
+81,12345678A,L7,Sevilla Centro,Bellavista,2025-10-28,17:45,37,2.50,true
+82,87654321B,Metro-C,Plaza Nueva,Bormujos,2025-10-31,08:30,50,3.00,false
+83,11223344C,L1,Centro,Nervión,2025-11-04,10:00,16,1.55,false
+84,44332211D,Metro-A,San Bernardo,Nervión,2025-11-07,07:15,18,1.75,true
+85,55667788E,L3,Pino Montano,Macarena,2025-11-11,15:30,26,1.80,false
+86,88776655F,L5,Bellavista,Aeropuerto,2025-11-14,09:00,32,2.00,false
+87,99001122G,Metro-B,Olivar de Quinto,Nervión,2025-11-18,18:15,42,2.75,true
+88,22110099H,L7,Camas,Sevilla Centro,2025-11-21,08:45,35,2.50,false
+89,33445566I,Metro-C,Bormujos,San Bernardo,2025-11-25,13:30,55,3.00,false
+90,66554433J,L1,Triana,Centro,2025-11-28,16:45,12,1.50,true
+91,77889900K,L3,Plaza de Armas,Pino Montano,2025-12-02,07:30,24,1.80,false
+92,00998877L,Metro-A,Nervión,San Bernardo,2025-12-05,10:15,18,1.75,false
+93,10203040M,L5,Santa Justa,Bellavista,2025-12-09,08:00,30,2.00,true
+94,40302010N,L7,Bellavista,Camas,2025-12-12,17:00,38,2.50,false
+95,50607080O,Metro-B,Santa Justa,Olivar de Quinto,2025-12-16,09:45,40,2.75,false
+96,80706050P,Metro-C,Plaza Nueva,Bormujos,2025-12-19,14:30,52,3.00,true
+97,91827364Q,L1,Macarena,Centro,2025-12-23,08:15,15,1.50,false
+98,46372819R,L3,Nervión,Macarena,2025-12-26,11:00,23,1.80,false
+99,28374655S,Metro-A,San Bernardo,Nervión,2025-12-29,16:00,18,1.75,true
+100,73829104T,L5,Aeropuerto,Nervión,2025-12-31,09:30,33,2.00,false
+101,12345678A,L1,Centro,Triana,2025-01-15,07:20,12,1.50,false
+102,87654321B,Metro-A,Nervión,San Bernardo,2025-02-08,18:40,18,1.75,true
+103,11223344C,L7,Camas,Bellavista,2025-03-21,09:10,37,2.50,false
+104,44332211D,Metro-C,Bormujos,Plaza Nueva,2025-04-03,14:55,48,3.00,false
+105,55667788E,L3,Macarena,Pino Montano,2025-05-14,08:25,26,1.80,true
+106,88776655F,L5,Bellavista,Santa Justa,2025-06-02,17:05,30,2.00,false
+107,99001122G,Metro-B,Olivar de Quinto,Santa Justa,2025-07-09,07:50,42,2.75,false
+108,22110099H,L1,Triana,Nervión,2025-08-20,12:10,20,1.60,true
+109,33445566I,L3,Plaza de Armas,Centro,2025-09-04,09:35,22,1.80,false
+110,66554433J,Metro-C,Plaza Nueva,Bormujos,2025-10-15,16:20,50,3.00,false
+111,77889900K,L5,Santa Justa,Aeropuerto,2025-11-03,08:05,28,2.00,true
+112,00998877L,L7,Sevilla Centro,Camas,2025-12-08,10:50,35,2.50,false
+113,10203040M,Metro-A,San Bernardo,Nervión,2025-01-30,15:25,18,1.75,false
+114,40302010N,L1,Centro,Macarena,2025-02-17,07:40,15,1.50,true
+115,50607080O,Metro-B,Santa Justa,Olivar de Quinto,2025-03-28,18:55,40,2.75,false
+116,80706050P,L3,Pino Montano,Plaza de Armas,2025-04-24,11:20,25,1.80,false
+117,91827364Q,L7,Bellavista,Camas,2025-05-08,09:00,38,2.50,true
+118,46372819R,Metro-C,Bormujos,San Bernardo,2025-06-19,14:10,55,3.00,false
+119,28374655S,L5,Aeropuerto,Bellavista,2025-07-31,08:35,32,2.00,false
+120,73829104T,L1,Triana,Centro,2025-08-06,17:25,12,1.50,true
+121,12345678A,Metro-B,Olivar de Quinto,Nervión,2025-09-17,09:50,42,2.75,false
+122,87654321B,L3,Nervión,Macarena,2025-10-09,13:15,23,1.80,false
+123,11223344C,L7,Camas,Sevilla Centro,2025-11-20,07:05,35,2.50,true
+124,44332211D,Metro-A,Nervión,San Bernardo,2025-12-04,15:40,18,1.75,false
+125,55667788E,L1,Centro,Triana,2025-01-24,10:30,12,1.50,false
+126,88776655F,Metro-C,Plaza Nueva,Bormujos,2025-02-28,08:45,48,3.00,true
+127,99001122G,L5,Santa Justa,Aeropuerto,2025-03-07,16:55,28,2.00,false
+128,22110099H,L3,Pino Montano,Nervión,2025-04-16,09:20,26,1.80,false
+129,33445566I,Metro-B,Santa Justa,Olivar de Quinto,2025-05-22,18:05,40,2.75,true
+130,66554433J,L7,Bellavista,Camas,2025-06-11,07:55,38,2.50,false
+131,77889900K,L1,Triana,Macarena,2025-07-03,11:40,17,1.50,false
+132,00998877L,Metro-A,San Bernardo,Nervión,2025-08-14,14:50,18,1.75,true
+133,10203040M,L5,Bellavista,Santa Justa,2025-09-24,09:05,30,2.00,false
+134,40302010N,Metro-C,Bormujos,Plaza Nueva,2025-10-28,17:10,52,3.00,false
+135,50607080O,L3,Macarena,Pino Montano,2025-11-06,08:20,25,1.80,true
+136,80706050P,L7,Sevilla Centro,Bellavista,2025-12-11,12:35,37,2.50,false
+137,91827364Q,Metro-B,Olivar de Quinto,Santa Justa,2025-01-17,16:10,42,2.75,false
+138,46372819R,L1,Centro,Nervión,2025-02-13,07:25,16,1.55,true
+139,28374655S,Metro-A,Nervión,San Bernardo,2025-03-31,10:40,18,1.75,false
+140,73829104T,L3,Plaza de Armas,Macarena,2025-04-07,15:00,22,1.80,false
+141,12345678A,L5,Aeropuerto,Santa Justa,2025-05-19,08:10,28,2.00,true
+142,87654321B,Metro-C,Plaza Nueva,Bormujos,2025-06-23,18:25,50,3.00,false
+143,11223344C,L7,Camas,Sevilla Centro,2025-07-16,09:55,35,2.50,false
+144,44332211D,L1,Triana,Centro,2025-08-04,13:20,12,1.50,true
+145,55667788E,Metro-B,Santa Justa,Olivar de Quinto,2025-09-10,07:35,40,2.75,false
+146,88776655F,L3,Nervión,Pino Montano,2025-10-22,15:45,26,1.80,false
+147,99001122G,Metro-A,San Bernardo,Nervión,2025-11-27,09:10,18,1.75,true
+148,22110099H,L5,Santa Justa,Bellavista,2025-12-18,14:05,30,2.00,false
+149,33445566I,L7,Bellavista,Camas,2025-01-28,08:50,38,2.50,false
+150,66554433J,Metro-C,Bormujos,San Bernardo,2025-02-19,17:30,55,3.00,true
+151,77889900K,L1,Centro,Macarena,2025-03-12,10:05,15,1.50,false
+152,00998877L,Metro-B,Olivar de Quinto,Nervión,2025-04-26,07:20,42,2.75,false
+153,10203040M,L3,Pino Montano,Plaza de Armas,2025-05-31,12:45,24,1.80,true
+154,40302010N,L5,Bellavista,Aeropuerto,2025-06-08,16:35,32,2.00,false
+155,50607080O,Metro-A,Nervión,San Bernardo,2025-07-21,08:00,18,1.75,false
+156,80706050P,L7,Camas,Sevilla Centro,2025-08-27,15:15,35,2.50,true
+157,91827364Q,L1,Triana,Nervión,2025-09-03,09:40,20,1.60,false
+158,46372819R,Metro-C,Plaza Nueva,Bormujos,2025-10-06,18:00,52,3.00,false
+159,28374655S,L3,Macarena,Centro,2025-11-13,07:15,22,1.80,true
+160,73829104T,L5,Santa Justa,Aeropuerto,2025-12-22,11:50,28,2.00,false
+161,12345678A,Metro-B,Santa Justa,Olivar de Quinto,2025-02-06,08:30,40,2.75,false
+162,87654321B,L7,Sevilla Centro,Camas,2025-03-15,14:20,35,2.50,true
+163,11223344C,L1,Centro,Triana,2025-04-21,09:55,12,1.50,false
+164,44332211D,Metro-A,San Bernardo,Nervión,2025-05-05,17:40,18,1.75,false
+165,55667788E,L3,Plaza de Armas,Nervión,2025-06-16,12:15,23,1.80,true
+166,88776655F,Metro-C,Bormujos,Plaza Nueva,2025-07-28,07:10,48,3.00,false
+167,99001122G,L5,Aeropuerto,Bellavista,2025-08-11,15:30,32,2.00,false
+168,22110099H,L7,Camas,Bellavista,2025-09-22,10:20,38,2.50,true
+169,33445566I,Metro-B,Olivar de Quinto,Santa Justa,2025-10-01,08:45,42,2.75,false
+170,66554433J,L1,Triana,Centro,2025-11-09,13:55,12,1.50,false
+171,77889900K,Metro-A,Nervión,San Bernardo,2025-12-03,16:25,18,1.75,true
+172,00998877L,L3,Pino Montano,Macarena,2025-01-20,09:30,26,1.80,false
+173,10203040M,L7,Bellavista,Camas,2025-02-24,07:55,38,2.50,false
+174,40302010N,Metro-C,Plaza Nueva,Bormujos,2025-03-18,17:20,52,3.00,true
+175,50607080O,L5,Santa Justa,Aeropuerto,2025-04-30,11:05,28,2.00,false
+176,80706050P,L1,Centro,Macarena,2025-05-25,08:40,15,1.50,false
+177,91827364Q,Metro-B,Santa Justa,Olivar de Quinto,2025-06-04,14:45,40,2.75,true
+178,46372819R,L3,Nervión,Plaza de Armas,2025-07-13,09:15,24,1.80,false
+179,28374655S,Metro-A,San Bernardo,Nervión,2025-08-17,18:10,18,1.75,false
+180,73829104T,L7,Camas,Sevilla Centro,2025-09-29,12:30,35,2.50,true
+181,12345678A,L3,Pino Montano,Nervión,2025-10-20,07:00,26,1.80,false
+182,87654321B,Metro-A,Nervión,San Bernardo,2025-11-17,15:10,18,1.75,false
+183,11223344C,Metro-B,Olivar de Quinto,Nervión,2025-12-15,09:25,42,2.75,true
+184,44332211D,L5,Bellavista,Santa Justa,2025-01-11,16:50,30,2.00,false
+185,55667788E,Metro-C,Bormujos,San Bernardo,2025-02-22,08:05,55,3.25,false
+186,88776655F,L7,Sevilla Centro,Bellavista,2025-03-26,13:40,37,2.50,true
+187,99001122G,L1,Macarena,Triana,2025-04-14,10:25,14,1.50,false
+188,22110099H,L3,Plaza de Armas,Pino Montano,2025-05-03,07:15,25,1.80,false
+189,33445566I,L5,Aeropuerto,Nervión,2025-06-28,17:55,33,2.00,true
+190,66554433J,Metro-B,Santa Justa,Olivar de Quinto,2025-07-07,09:00,42,2.75,false
+191,77889900K,Metro-C,Plaza Nueva,Bormujos,2025-08-23,14:35,50,3.00,false
+192,00998877L,L1,Centro,Triana,2025-09-06,08:20,12,1.50,true
+193,10203040M,L7,Camas,Bellavista,2025-10-27,11:45,38,2.50,false
+194,40302010N,Metro-A,Nervión,San Bernardo,2025-11-30,16:00,18,1.75,false
+195,50607080O,L3,Macarena,Centro,2025-12-27,09:50,22,1.80,true
+196,80706050P,L5,Santa Justa,Bellavista,2025-01-16,07:30,30,2.00,false
+197,91827364Q,Metro-C,Bormujos,Plaza Nueva,2025-02-10,15:55,48,3.00,false
+198,46372819R,L7,Bellavista,Camas,2025-03-05,12:00,38,2.50,true
+199,28374655S,L1,Triana,Macarena,2025-04-09,08:55,17,1.50,false
+200,73829104T,Metro-B,Olivar de Quinto,Santa Justa,2025-05-28,18:30,40,2.75,false
+201,12345678A,Metro-A,San Bernardo,Nervión,2025-06-14,09:40,18,1.75,true
+202,87654321B,L1,Centro,Triana,2025-07-19,13:05,12,1.50,false
+203,11223344C,L3,Pino Montano,Macarena,2025-08-31,07:25,26,1.80,false
+204,44332211D,Metro-C,Plaza Nueva,Bormujos,2025-09-11,16:40,52,3.00,true
+205,55667788E,L5,Aeropuerto,Santa Justa,2025-10-04,10:10,28,2.00,false
+206,88776655F,L7,Camas,Sevilla Centro,2025-11-22,08:35,35,2.50,false
+207,99001122G,Metro-B,Santa Justa,Olivar de Quinto,2025-12-10,15:20,40,2.75,true
+208,22110099H,L1,Triana,Centro,2025-01-26,09:45,12,1.50,false
+209,33445566I,Metro-A,Nervión,San Bernardo,2025-02-15,17:00,18,1.75,false
+210,66554433J,L3,Plaza de Armas,Nervión,2025-03-09,12:20,23,1.80,true
+211,77889900K,L5,Bellavista,Aeropuerto,2025-04-17,07:40,32,2.00,false
+212,00998877L,Metro-C,Bormujos,San Bernardo,2025-05-11,14:25,55,3.25,false
+213,10203040M,L7,Sevilla Centro,Camas,2025-06-25,09:00,35,2.50,true
+214,40302010N,L1,Macarena,Triana,2025-07-02,18:50,14,1.50,false
+215,50607080O,Metro-B,Olivar de Quinto,Nervión,2025-08-16,08:15,42,2.75,false
+216,80706050P,L3,Nervión,Pino Montano,2025-09-20,13:50,26,1.80,true
+217,91827364Q,L5,Santa Justa,Bellavista,2025-10-13,10:30,30,2.00,false
+218,46372819R,Metro-A,San Bernardo,Nervión,2025-11-08,07:05,18,1.75,false
+219,28374655S,Metro-C,Plaza Nueva,Bormujos,2025-12-20,16:15,52,3.00,true
+220,73829104T,L7,Camas,Bellavista,2025-12-30,11:30,60,3.50,false
